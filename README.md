@@ -24,4 +24,4 @@ code .
 
 ## Descarga e instala la App test 👨🏻‍💻
 
-<a href="https://code.visualstudio.com/" target="_blank">Releases!</a>
+<a href="https://github.com/CristianDev01/My-Contador-ADSO/releases" target="_blank">Releases!</a>
